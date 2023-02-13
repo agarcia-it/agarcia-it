@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aric, an <a href="[www.linkedin.com/in/aricgarcia](https://www.linkedin.com/in/aricgarcia/)">IT Professional</a>☺</h1>
+<h1>Hi, I'm Aric, an <a href="https://www.linkedin.com/in/aricgarcia/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
